@@ -42,7 +42,7 @@ Metro Journey Planner is a web application that helps users plan their metro jou
     # Install dependencies
     npm install
     ```
-##Running the Application
+## Running the Application
 
 1. **Run the Flask backend:**
 
